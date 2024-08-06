@@ -1,0 +1,50 @@
+#include <iostream>
+class Solution {
+public:
+    static bool comparePairs(const std::pair<char, int>& a, const std::pair<char, int>& b) 
+    {
+        return a.second > b.second;
+    }   
+    int minimumPushes(string word) {
+        std::unordered_map<char, int> freqMap;
+        for (char ch : word) 
+        {
+            if (ch != ' ') 
+            { 
+                freqMap[ch]++;
+            }
+        }
+
+        std::vector<std::pair<char, int>> freqVec(freqMap.begin(), freqMap.end());
+
+        std::sort(freqVec.begin(), freqVec.end(), comparePairs);
+
+        std::string result;
+        for (const auto& pair : freqVec) 
+        {
+            result.append(pair.second, pair.first); 
+        }
+
+        std::map<char, int> myMap;
+        int counter = 1;
+        for (int i = 0; i < result.length(); ++i) 
+        {
+            if (myMap.find(result[i]) == myMap.end()) 
+            {
+                if (myMap.size() != 0 && myMap.size() % 8 == 0)
+                {
+                    counter++;
+                }
+                myMap[result[i]] = counter;
+
+            }
+        }
+
+        int total = 0;
+        for (auto& i : result)
+        {
+            total += myMap[i];
+        }
+        return total;
+    }
+};
