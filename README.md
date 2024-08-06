@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0001-two-sum) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1511-count-number-of-teams) |
 | [1791-richest-customer-wealth](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1791-richest-customer-wealth) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0001-two-sum) |
+| [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
@@ -63,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
@@ -94,4 +97,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1333-sort-the-jumbled-numbers](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1333-sort-the-jumbled-numbers) |
+## Design
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
+## Randomized
+|  |
+| ------- |
+| [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 <!---LeetCode Topics End-->
