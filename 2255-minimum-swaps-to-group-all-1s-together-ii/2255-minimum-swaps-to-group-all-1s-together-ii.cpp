@@ -1,37 +1,31 @@
 class Solution {
 public:
     int minSwaps(vector<int>& nums) {
+        // first we want to find the number of ones in the vector
+        int numOnes = 0;
         int size = nums.size();
-        int onescount = 0;
         for (int i = 0; i < size; i++)
         {
             if (nums[i] == 1)
             {
-                onescount++;
+                numOnes++;
             }
         }
-        if (onescount == 0)
+        if (numOnes == size || numOnes == 0)
         {
             return 0;
         }
-        else if (onescount == size)
+        int sumInWin = 0;
+        for (int i = 0; i < numOnes; i++)
         {
-            return 0;
+            sumInWin += nums[i];
         }
-        int maxOnesInWindow = 0;
-        int currentOnesInWindow = 0;
-        for (int i = 0; i < onescount; ++i) 
-        {
-            currentOnesInWindow += nums[i];
-        }
-        maxOnesInWindow = currentOnesInWindow;
-
-        for (int i = onescount; i < size + onescount; ++i) 
-        {
-            currentOnesInWindow += nums[i % size] - nums[(i - onescount) % size];
-            maxOnesInWindow = std::max(maxOnesInWindow, currentOnesInWindow);
-        }
-
-        return onescount - maxOnesInWindow;
+        int maxSum = sumInWin;
+        for (int i = numOnes; i < size + numOnes; i++) 
+        {  
+            sumInWin += nums[i%size] - nums[(i - numOnes)%size];  
+            maxSum = std::max(maxSum, sumInWin);  
+        }  
+        return numOnes - maxSum;
     }
 };
