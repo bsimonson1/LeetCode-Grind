@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 | [2727-number-of-senior-citizens](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2727-number-of-senior-citizens) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Matrix
 |  |
 | ------- |
@@ -25,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0001-two-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
@@ -38,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Tree
 |  |
 | ------- |
@@ -105,4 +108,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
+## Trie
+|  |
+| ------- |
+| [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
 <!---LeetCode Topics End-->
