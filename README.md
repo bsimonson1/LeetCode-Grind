@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0001-two-sum) |
+| [1333-sort-the-jumbled-numbers](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1511-count-number-of-teams) |
 | [1791-richest-customer-wealth](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1791-richest-customer-wealth) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
@@ -89,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2288-count-operations-to-obtain-zero) |
+## Sorting
+|  |
+| ------- |
+| [1333-sort-the-jumbled-numbers](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1333-sort-the-jumbled-numbers) |
 <!---LeetCode Topics End-->
