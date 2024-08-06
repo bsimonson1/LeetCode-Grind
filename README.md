@@ -62,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2507-number-of-common-factors](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2507-number-of-common-factors) |
 | [2542-average-value-of-even-numbers-that-are-divisible-by-three](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2542-average-value-of-even-numbers-that-are-divisible-by-three) |
 ## Dynamic Programming
@@ -84,4 +85,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2507-number-of-common-factors](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2507-number-of-common-factors) |
+## Simulation
+|  |
+| ------- |
+| [2288-count-operations-to-obtain-zero](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2288-count-operations-to-obtain-zero) |
 <!---LeetCode Topics End-->
