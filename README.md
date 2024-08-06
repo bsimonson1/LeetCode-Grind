@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0001-two-sum) |
 | [1791-richest-customer-wealth](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1791-richest-customer-wealth) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2255-minimum-swaps-to-group-all-1s-together-ii](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2255-minimum-swaps-to-group-all-1s-together-ii) |
@@ -16,6 +17,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0001-two-sum) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 ## String
 |  |
