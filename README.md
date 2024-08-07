@@ -48,10 +48,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Depth-First Search
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Breadth-First Search
 |  |
 | ------- |
@@ -60,6 +62,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0111-minimum-depth-of-binary-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 ## Binary Search
 |  |
 | ------- |
@@ -132,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0206-reverse-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0206-reverse-linked-list) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 <!---LeetCode Topics End-->
