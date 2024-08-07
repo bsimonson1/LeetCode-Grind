@@ -100,6 +100,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2288-count-operations-to-obtain-zero](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2288-count-operations-to-obtain-zero) |
+| [2299-merge-nodes-in-between-zeros](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Sorting
 |  |
 | ------- |
@@ -122,4 +123,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
