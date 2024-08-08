@@ -34,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2727-number-of-senior-citizens](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2727-number-of-senior-citizens) |
 ## Counting
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2288-count-operations-to-obtain-zero](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2288-count-operations-to-obtain-zero) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Sorting
