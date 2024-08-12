@@ -90,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0338-counting-bits) |
 | [1511-count-number-of-teams](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1511-count-number-of-teams) |
 ## Binary Indexed Tree
 |  |
@@ -131,6 +132,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Bit Manipulation
 |  |
 | ------- |
+| [0338-counting-bits](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0338-counting-bits) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Trie
 |  |
