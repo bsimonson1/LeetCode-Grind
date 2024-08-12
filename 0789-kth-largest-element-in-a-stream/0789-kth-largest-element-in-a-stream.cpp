@@ -2,8 +2,9 @@
 class KthLargest {
 public:
     std::priority_queue<int, std::vector<int>, std::greater<int>> minH;
-    int k;
-    KthLargest(int k, vector<int>& nums) : k(k) {
+    int max;
+    KthLargest(int k, vector<int>& nums) {
+        max = k;
         for (auto& num : nums)
         {
             minH.push(num);
@@ -16,7 +17,7 @@ public:
     
     int add(int val) {
         minH.push(val);
-        if (minH.size() > k)
+        if (minH.size() > max)
         {
             minH.pop();
         }
