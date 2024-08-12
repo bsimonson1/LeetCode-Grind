@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -69,6 +70,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0111-minimum-depth-of-binary-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0111-minimum-depth-of-binary-tree) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Binary Search
 |  |
 | ------- |
@@ -120,6 +122,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Randomized
 |  |
 | ------- |
@@ -148,8 +151,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
 ## Two Pointers
 |  |
 | ------- |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
+## Data Stream
+|  |
+| ------- |
+| [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
 <!---LeetCode Topics End-->
