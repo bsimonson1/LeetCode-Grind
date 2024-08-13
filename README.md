@@ -143,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0092-reverse-linked-list-ii](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0206-reverse-linked-list) |
+| [1765-merge-in-between-linked-lists](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
 |  |
