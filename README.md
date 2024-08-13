@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [1072-next-greater-node-in-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1072-next-greater-node-in-linked-list) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1511-count-number-of-teams) |
 | [1791-richest-customer-wealth](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1791-richest-customer-wealth) |
@@ -147,6 +148,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0092-reverse-linked-list-ii](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0092-reverse-linked-list-ii) |
 | [0206-reverse-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0908-middle-of-the-linked-list) |
+| [1072-next-greater-node-in-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1072-next-greater-node-in-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
@@ -172,4 +174,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
+## Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1072-next-greater-node-in-linked-list) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1072-next-greater-node-in-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1072-next-greater-node-in-linked-list) |
 <!---LeetCode Topics End-->
