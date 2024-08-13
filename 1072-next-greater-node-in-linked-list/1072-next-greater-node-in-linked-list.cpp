@@ -10,32 +10,31 @@
  */
 class Solution {
 public:
-    void recGreater(ListNode* head, std::vector<int>& res, std::stack<int>& st)
-    {
-        if (head == NULL)
-        {
-            return;
-        }
-        recGreater(head->next, res, st);
-        while (!st.empty() && st.top() <= head->val)
-        {
-            st.pop();
-        }
-        if (st.empty())
-        {
-            res.push_back(0);
-        }
-        else
-        {
-            res.push_back(st.top());
-        }
-        st.push(head->val);
-    }
     vector<int> nextLargerNodes(ListNode* head) {
         std::vector<int> res;
         std::stack<int> st;
-        recGreater(head, res, st);
-        reverse(res.begin(), res.end());
+        while (head)
+        {
+            res.push_back(head->val);
+            head = head->next;
+        }
+        for (int i = res.size() - 1; i >= 0; i--)
+        {
+            int temp = res[i];
+            while (!st.empty() && st.top() <= temp)
+            {
+                st.pop();
+            }
+            if (st.empty())
+            {
+                res[i] = 0;
+            }
+            else
+            {
+                res[i] = st.top();
+            }
+            st.push(temp);
+        }
         return res;
         // ListNode* mover = head;
         // std::vector<int> largerNodes;
