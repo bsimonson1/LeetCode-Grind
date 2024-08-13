@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0001-two-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [1333-sort-the-jumbled-numbers](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1333-sort-the-jumbled-numbers) |
 | [1511-count-number-of-teams](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1511-count-number-of-teams) |
 | [1791-richest-customer-wealth](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1791-richest-customer-wealth) |
@@ -27,12 +28,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0001-two-sum) |
 | [0380-insert-delete-getrandom-o1](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0380-insert-delete-getrandom-o1) |
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
 |  |
 | ------- |
+| [0599-minimum-index-sum-of-two-lists](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2260-divide-a-string-into-groups-of-size-k) |
