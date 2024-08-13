@@ -10,30 +10,56 @@
  */
 class Solution {
 public:
-    vector<int> nextLargerNodes(ListNode* head) {
-        ListNode* mover = head;
-        std::vector<int> largerNodes;
-        bool notFound = true;
-        while (mover != NULL)
+    void recGreater(ListNode* head, std::vector<int>& res, std::stack<int>& st)
+    {
+        if (head == NULL)
         {
-            ListNode* temp = mover->next;
-            while (temp != NULL)
-            {
-                if (temp->val > mover->val)
-                {
-                    notFound = false;
-                    largerNodes.push_back(temp->val);
-                    break;
-                }
-                temp = temp->next;
-            }
-            if (notFound)
-            {
-                largerNodes.push_back(0);
-            }
-            notFound = true;
-            mover = mover->next;
+            return;
         }
-        return largerNodes;
+        recGreater(head->next, res, st);
+        while (!st.empty() && st.top() <= head->val)
+        {
+            st.pop();
+        }
+        if (st.empty())
+        {
+            res.push_back(0);
+        }
+        else
+        {
+            res.push_back(st.top());
+        }
+        st.push(head->val);
+    }
+    vector<int> nextLargerNodes(ListNode* head) {
+        std::vector<int> res;
+        std::stack<int> st;
+        recGreater(head, res, st);
+        reverse(res.begin(), res.end());
+        return res;
+        // ListNode* mover = head;
+        // std::vector<int> largerNodes;
+        // bool notFound = true;
+        // while (mover != NULL)
+        // {
+        //     ListNode* temp = mover->next;
+        //     while (temp != NULL)
+        //     {
+        //         if (temp->val > mover->val)
+        //         {
+        //             notFound = false;
+        //             largerNodes.push_back(temp->val);
+        //             break;
+        //         }
+        //         temp = temp->next;
+        //     }
+        //     if (notFound)
+        //     {
+        //         largerNodes.push_back(0);
+        //     }
+        //     notFound = true;
+        //     mover = mover->next;
+        // }
+        // return largerNodes;
     }
 };
