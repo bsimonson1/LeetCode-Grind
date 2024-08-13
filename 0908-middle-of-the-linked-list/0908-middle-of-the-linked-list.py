@@ -11,12 +11,8 @@ class Solution(object):
         """
         first = head
         last = head
-        count = 0
-        while first != None:
-            count = count + 1
-            first = first.next
-        count = count / 2
-        for i in range(count):
+        while first and first.next:
             last = last.next
+            first = first.next.next
         return last
         
