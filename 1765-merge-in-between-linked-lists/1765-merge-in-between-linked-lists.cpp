@@ -13,28 +13,24 @@ public:
     ListNode* mergeInBetween(ListNode* list1, int a, int b, ListNode* list2) { 
         ListNode* node_a = list1;      
         ListNode* node_b = list1;
-        
-        // first we want to iterate through to the a point
-        for (int i = 0; i < a - 1; i++)
+        for (int i = 0; i < b; i++)
         {
-            node_a = node_a->next;
+            if (i < a-1)
+            {
+                node_a = node_a->next;
+
+            }
+            node_b = node_b->next;
         }
-        // now we want to iterate through list2 to get to the point where we reconnect to list1
+        // now node a has everything from the beginning up until the ath node, and the list2
         ListNode* connection = list2;
         while (connection->next != NULL)
         {
             connection = connection->next;
         }
-        // now we want to find the b point
-        for (int i = 0; i <= b; i++)
-        {
-            node_b = node_b->next;
-        }
-        // now we are ready to reconect list2 next pointer to the end of list1 reference
-        connection->next = node_b;
-        // now that the list2 reference connection points back to the end of list1, we can connect nodea to it
-        node_a->next = list2; //note, we want the head of list2 not the connection node which should be the last node of a
-        // return list1 (the head) since all the references are properly aligned
+        // nodebs next pointer is ready to point at the end of the list
+        connection->next = node_b->next;
+        node_a->next = list2;
         return list1;
     }
 };
