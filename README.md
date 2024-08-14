@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0381-insert-delete-getrandom-o1-duplicates-allowed](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0381-insert-delete-getrandom-o1-duplicates-allowed) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0599-minimum-index-sum-of-two-lists) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [2163-kth-distinct-string-in-an-array](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2163-kth-distinct-string-in-an-array) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/bsimonson1/LeetCode-Grind/tree/master/3193-maximum-strong-pair-xor-i) |
 ## String
@@ -149,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0206-reverse-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0908-middle-of-the-linked-list) |
 | [1072-next-greater-node-in-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1072-next-greater-node-in-linked-list) |
+| [1267-remove-zero-sum-consecutive-nodes-from-linked-list](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1267-remove-zero-sum-consecutive-nodes-from-linked-list) |
 | [1765-merge-in-between-linked-lists](https://github.com/bsimonson1/LeetCode-Grind/tree/master/1765-merge-in-between-linked-lists) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Recursion
