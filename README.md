@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2384-root-equals-sum-of-children](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2384-root-equals-sum-of-children) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -76,6 +77,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0501-find-mode-in-binary-search-tree](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0501-find-mode-in-binary-search-tree) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0653-two-sum-iv-input-is-a-bst) |
 | [0789-kth-largest-element-in-a-stream](https://github.com/bsimonson1/LeetCode-Grind/tree/master/0789-kth-largest-element-in-a-stream) |
+| [2384-root-equals-sum-of-children](https://github.com/bsimonson1/LeetCode-Grind/tree/master/2384-root-equals-sum-of-children) |
 ## Binary Search
 |  |
 | ------- |
